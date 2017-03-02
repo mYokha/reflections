@@ -14,6 +14,12 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	It is useful because we can use git diff --staged command to see differences
+	between staged files and commited files. Understanding the difference we can
+	find out were the differences serious (logical) enough or not. If yes, then 
+	we make a commit, if not then we go back to changing file, adding it to
+	the staging area, then comparing with the most recent comit and so on.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
