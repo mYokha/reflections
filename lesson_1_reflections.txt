@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It showed us the two lines from each with had a difference, so we could
+    understand what is different exactly
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    The first reason I can think about is that we can back up the older version
+    if something went wrong. Doing it quickly is a big advantage. Also having a
+    version control system helps us to know what kind of functionallity or smth
+    had been added in one or another version.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Well, the manual commits seem to be more ligical. So, you do not make them
+    too often or too rare. The only con I can see is that "logical" moments
+    to create a commit is not always perfect. And it probably takes some time
+    to get used to it.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is a code-oriented system. And when you work with code one minor change
+    often affects on othe files which the file works along side with (like html,
+    css and js files). 
+    Systems like Google Drive more oriented on photos rather than code, so
+    there is no sense in making multiple changes in one commit for such kind of
+    VCS.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    We use git log to see all the commits (their ID's and short descriotions of
+    the changes in those commits). Git diff is used to see the difference 
+    between the two commits.
+    So we use git log to see the brief history of all changes and git diff - to
+    see detaild changes between two particular commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    We can roll back to whichever version and go forwards too. We actually do
+    not risk to lose some important data. Having all the versions we can 
+    compare the buggy one for example with the one which has no bugs, find them,
+    correct them and so on. It is very useful and efficient.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want it to use with the projects I'm going to work on in this course.
