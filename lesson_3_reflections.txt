@@ -3,13 +3,13 @@ local?
 
     When I'm working on a project from another computer or when my frineds or
     coworkers who do not have access to my loclal repos work with me.
+    The other way of using remote repos is for sharing my code.
+    To back up code with a emote repository is usefui too.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Because sometimes I don't want to push on GitHub all my local commits. It 
-    just might be too many of them. Or say I want to keep some files private and
-    local on my computer so I do not want to push them on GitHub.
+    Because I pull data manually it doesn't happen unexpectedly.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
@@ -22,7 +22,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It's useful for working offline.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
