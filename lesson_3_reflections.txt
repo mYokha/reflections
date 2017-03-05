@@ -22,7 +22,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    It's useful for working offline.
+    I'd use somethig like Dropbox or Google Docs. Tose are easier to understand
+    but do not have suc a great functionality.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
