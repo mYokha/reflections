@@ -22,15 +22,16 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    I'd use somethig like Dropbox or Google Docs. Tose are easier to understand
-    but do not have suc a great functionality.
+    It's useful for working offline.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I'd use somethig like Dropbox or Google Docs. Tose are easier to understand
+    but do not have suc a great functionality.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I'd use mater branch for working by myself and I'd created branches if I
+    collaborate with someone
